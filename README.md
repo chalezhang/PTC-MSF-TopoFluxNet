@@ -70,3 +70,6 @@ results/
 All automatically generated reports contain **data and figures only**, in CSV, JSON, and PNG formats.
 
 ## Results
+<img width="1500" height="1000" alt="image" src="https://github.com/user-attachments/assets/5272ec9f-970a-4d23-a533-3eeea0da5449" />
+<img width="1625" height="1000" alt="image" src="https://github.com/user-attachments/assets/6f1a721c-ab99-4469-94dd-e05b5573eaef" />
+
